@@ -1,0 +1,38 @@
+.head {
+    background-image:url(../Pizzaria/pizza-head.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px 10% 10px 10%;
+}
+
+.titulo {
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    border-bottom: 2px solid black
+}
+
+.titulo-pizza {
+    text-align: center;
+}
+
+.pizza-imagem {
+    width: 300px;
+}
+
+.tipos-pizza {
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+}
+
+.container {
+    display: inline-flex;
+    width: 40%;
+}
+
+.informação {
+    width: 350px;
+}
