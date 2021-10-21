@@ -1,0 +1,14 @@
+div > .card {
+    margin: 0 auto;
+    padding: 5px;
+}
+
+body {
+    text-align: center;
+}
+
+.col-sm-4{
+    margin: 0 auto;
+    padding: auto;
+}
+
